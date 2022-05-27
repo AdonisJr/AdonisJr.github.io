@@ -7,12 +7,12 @@ body {
     padding: 0;
 }
 
-.navbar container-fluid {
+.navbar .container-fluid {
     box-shadow: 0 0 0
 }
 
-.main {
-    min-height: 100vh;
+.featured-text img {
+    width: 90%;
 }
 
 .navbar,
@@ -27,4 +27,17 @@ body {
 .footer img {
     width: 50px;
     height: auto;
+}
+
+span {
+    padding-left: 30px;
+}
+
+.titlefont {
+    font-family: "Freestyle Script", Arial, Helvetica, sans-serif;
+}
+
+#beachtitle {
+    background-color: #143F6B;
+    color: #f4be16;
 }
