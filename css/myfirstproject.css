@@ -11,6 +11,15 @@ body {
     box-shadow: 0 0 0
 }
 
+.main {
+    background-color: rgb(212, 212, 212);
+}
+
+.main .rowitem {
+    background-color: white;
+    border-radius: 1%;
+}
+
 .featured-text img {
     width: 90%;
 }
@@ -31,6 +40,10 @@ body {
 
 span {
     padding-left: 30px;
+}
+
+.featured-font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .titlefont {
